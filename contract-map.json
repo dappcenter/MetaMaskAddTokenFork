@@ -6,6 +6,13 @@
     "symbol": "HAK",
     "decimals": 18
   },
+  "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe": {
+    "name": "StableUSD",
+    "logo": "stably.svg",
+    "erc20": true,
+    "symbol": "USDS",
+    "decimals": 6 
+  },
   "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69": {
     "name": "IoTeX",
     "logo": "iotex.svg",
